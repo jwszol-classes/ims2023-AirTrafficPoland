@@ -1,5 +1,3 @@
-<p align="center"><img src="https://www.sbcar.eu/wp-content/uploads/2018/05/Gdansk-University-of-Technology-loggo.png" width="300" align="middle"></p>
-
 # Air Traffic Poland
 Academic project at Gdansk University of Technology
 
